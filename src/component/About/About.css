@@ -1,0 +1,99 @@
+
+    *{
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+
+
+:root{
+    --black:#100F0F;
+    --light-gray:#0F3D3E;
+    --white:#F1F1F1;
+    --white-gray:#E2DCC8;
+}
+
+body{
+    background-color: var(--black);
+}
+
+
+
+.section-margin1{
+    margin-left: 75px;
+}
+
+.Aboutus-text{
+    margin-top: 50px;
+}
+
+.about-div{
+text-align: center;
+color: var(--white-gray);
+font-family: Blesing Grander;
+font-size: 45px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.text-div{
+
+color: var(--white);
+font-family: Blesing Grander;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 147.5%; 
+}
+
+.section2-top-margin{
+    margin-top: 20px;
+    max-width: 40vw;
+
+
+}
+
+.section2-buttons a{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding-inline: 30px;
+    padding-block: 5px;
+    border-radius: 10px;
+    color:var(--white);
+    font-family: Salinka;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.wave{
+    position: relative;
+    top:-50px;
+}
+
+.wave img{
+    
+    max-width: 98.9vw;
+
+}
+
+.section-8{
+    margin-top: 200px;
+}
+
+.section-9{
+    margin-top: 120px;
+}
+
+
+
+
+
+
+
+

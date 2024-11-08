@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+.createAccount {
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.createAccount a{
+    text-decoration: none;
+    padding-block: 10px;
+    background-color: #0F3D3E;
+    padding-inline: 25px;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-family: Salinka;
+    font-style: normal;
+    line-height: normal;
+    font-size: 24px;
+    font-weight: 600;
+    
+}
+
+.createAccount a:hover {
+    background-color: #E2DCC8;
+    color: #000000;
+
+}

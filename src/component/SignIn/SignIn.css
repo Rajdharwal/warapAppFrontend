@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+:root{
+    --black:#100F0F;
+    --dark-green:#0F3D3E;
+    --white:#F1F1F1;
+    --white-gray:#E2DCC8;
+}
+
+.signIn {
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.signIn a{
+    text-decoration: none;
+    padding-block: 10px;
+    background-color: var(--dark-green);
+    padding-inline: 7px;
+    border-radius: 50px;
+    color: var(--white);
+    font-family: Salinka;
+    font-style: normal;
+    line-height: normal;
+    font-size: 24px;
+    font-weight: 600;
+    
+
+
+    
+}
+
+.signIn a:hover {
+    background-color: var(--white-gray);
+    color: var(--black);
+
+}

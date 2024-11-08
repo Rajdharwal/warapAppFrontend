@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:  #100F0F;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-inline: 20px;
+    padding-top: 10px;
+}
+
+.menu-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.menu-bar{
+ display: flex;
+flex-direction: column;
+gap: 4px;
+}
+
+
+.line-1,.line-2, .line-3{
+    width: 25px;
+    height: 5px;
+    background-color: #0F3D3E;
+
+}

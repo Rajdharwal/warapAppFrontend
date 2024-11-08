@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --black:#100F0F;
+    --light-gray:#0F3D3E;
+    --white:#F1F1F1;
+    --white-gray:#E2DCC8;
+}
+

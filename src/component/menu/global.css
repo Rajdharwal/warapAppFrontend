@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Helvetica+Neue:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Blesing+Grander:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-blesing-grander: "Blesing Grander";
+  --font-ibarra-real-nova: "Ibarra Real Nova";
+  --font-familjen-grotesk: "Familjen Grotesk";
+  --font-helvetica: Helvetica;
+  --font-helvetica-neue: "Helvetica Neue";
+
+  /* font sizes */
+  --font-size-13xl-7: 32.7px;
+  --font-size-xl: 20px;
+  --font-size-16xl-9: 35.9px;
+  --font-size-2xs-1: 10.1px;
+  --font-size-base-2: 15.2px;
+  --font-size-base-6: 15.6px;
+  --font-size-4xl-5: 23.5px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-antiquewhite: #e2dcc8;
+  --color-crimson: #cf1827;
+  --color-gray-100: #818181;
+  --color-gray-200: #292930;
+  --color-gray-300: rgba(34, 0, 0, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0.5);
+  --color-darkslategray-100: #3f3f3f;
+  --color-darkslategray-200: #2d2d2d;
+  --color-darkslategray-300: rgba(63, 63, 63, 0.2);
+  --color-white: #fff;
+  --color-darkgray: #b3b3b3;
+  --color-dimgray-100: #5a5a60;
+  --color-dimgray-200: #545454;
+  --color-snow: #fff6f7;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-base-9: 16.9px;
+  --br-smi: 13px;
+  --br-3xl-9: 22.9px;
+}

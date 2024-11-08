@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logoDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+
+}
+
+.logo img{
+    width: 64px;
+    height: 64px;
+
+}
+
+.logoText img{
+    padding-top: 10px;
+height: 62px;
+
+}
